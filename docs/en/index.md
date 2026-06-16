@@ -10,7 +10,7 @@
 
 # OSCAT Network Documentation
 
-Welcome to the OSCAT Network Library documentation! ([Download documentation as PDF](https://eclipse-oscat.github.io/oscat-network-docs/en/pdf/document.pdf))
+Welcome to the OSCAT Network Library documentation! ([Download documentation as PDF](https://eclipse-oscat.github.io/oscat-network-docs/en/pdf/oscat-network-docs-en.pdf))
 
 This library contains function blocks for network communication, protocols, and internet services.
 
