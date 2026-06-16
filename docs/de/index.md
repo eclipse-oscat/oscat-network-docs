@@ -10,7 +10,7 @@
 
 # OSCAT Network Dokumentation
 
-Willkommen zur Dokumentation der OSCAT Network Library! ([Dokumentation als PDF herunterladen](pdf/document.pdf))
+Willkommen zur Dokumentation der OSCAT Network Library! ([Dokumentation als PDF herunterladen](https://eclipse-oscat.github.io/oscat-network-docs/de/pdf/document.pdf))
 
 Diese Bibliothek enthält Funktionsbausteine für Netzwerkkommunikation, Protokolle und Internet-Dienste.
 
