@@ -4,6 +4,11 @@ Dieses Repository enthält die Dokumentation für die **OSCAT Network Library**.
 
 Die Dokumentation ist verfügbar unter: [https://oscat-network.readthedocs.io](https://oscat-network.readthedocs.io)
 
+- [📄 PDF Deutsch (oscat-network-docs-de.pdf)](https://eclipse-oscat.github.io/oscat-network-docs/de/pdf/oscat-network-docs-de.pdf)
+- [📄 PDF English (oscat-network-docs-en.pdf)](https://eclipse-oscat.github.io/oscat-network-docs/en/pdf/oscat-network-docs-en.pdf)
+- [GitHub Repository](https://github.com/eclipse-oscat/oscat-network-docs)
+
+
 ## Kategorien
 
 - **NETWORK** - Netzwerkprotokolle und Kommunikation
